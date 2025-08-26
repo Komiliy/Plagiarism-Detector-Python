@@ -14,4 +14,9 @@ Run the script from the command line
 
 
 <h3>Example Output</h3>
-<img width="428" height="26" alt="image" src="https://github.com/user-attachments/assets/182f9d93-223f-4f1c-becd-84b6a233396c" />
+<img width="154" height="40" alt="image" src="https://github.com/user-attachments/assets/0fc8a9a3-dbf5-47b2-91d9-5f9e59f6b036" />
+<br>
+
+<img width="423" height="27" alt="image" src="https://github.com/user-attachments/assets/59e0a92d-653e-4f7a-bf12-b3212dc7846d" />
+
+
