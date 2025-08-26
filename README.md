@@ -6,7 +6,7 @@ Python 3.x
 
 Built-in difflib module (no extra installation needed).
 
-Usage
+<h3>Usage</h3>
 
 Place your script and the external file(s) in the same directory.
 
